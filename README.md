@@ -17,31 +17,6 @@ A full-stack finance platform for students to track spending, manage budgets, an
 - REST API backend
 - React frontend dashboard
 
-## Project Structure
-
-```text
-student-budget-coach/
-  backend/
-    app/
-      main.py
-      database.py
-      models.py
-      schemas.py
-      seed.py
-      analytics.py
-      crud.py
-    requirements.txt
-    .env.example
-  frontend/
-    index.html
-    package.json
-    src/
-      main.jsx
-      App.jsx
-      api.js
-      styles.css
-```
-
 ## Backend Setup
 
 ```bash
