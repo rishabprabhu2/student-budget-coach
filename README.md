@@ -2,6 +2,9 @@
 
 A full-stack finance platform for students to track spending, manage budgets, and visualize savings progress.
 
+- Developed a finance platform that helped 14 students track spending, manage budgets, and visualize savings progress  
+- Created interactive dashboards displaying 15+ financial metrics, including spending trends and budget utilization
+
 **Stack:** Python, FastAPI, React, PostgreSQL
 
 ## Features
@@ -99,9 +102,3 @@ Open:
 ```text
 http://localhost:5173
 ```
-
-## Resume Description
-
-**Student Budget Coach | Python, React, PostgreSQL**  
-- Developed a finance platform that helped 14 students track spending, manage budgets, and visualize savings progress  
-- Created interactive dashboards displaying 15+ financial metrics, including spending trends and budget utilization
